@@ -3,7 +3,7 @@ This project is a web application where users can search for movies and rate the
 
 # Features:
 
-# Search Movies: Users can search for movies by title. The application fetches movie details including plot, actors, director, genre, and IMDb rating.
+# Search Movies: ## Users can search for movies by title. The application fetches movie details including plot, actors, director, genre, and IMDb rating.
 
 # Add to Watched List: Once users find a movie, they can add it to their watched list. Each movie in the list can be rated by the user.
 
